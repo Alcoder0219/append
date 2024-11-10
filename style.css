@@ -1,0 +1,15 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    display: flex;
+}
+.nav_links{
+    display: flex;
+    list-style: none;
+    padding: 5px;
+}
+.nav_dropdown{
+    list-style: none;
+}
